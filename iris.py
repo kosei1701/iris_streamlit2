@@ -32,7 +32,7 @@ sepalValue = st.sidebar.slider('sepal length (cm)', min_value=0.0, max_value=10.
 petalValue = st.sidebar.slider('petal length (cm)', min_value=0.0, max_value=10.0, step=0.1)
 
 # メインパネル
-st.title('Iris Classifier')
+st.title('Iris Classifier (Kobi----)')
 st.write('## Input Value')
 
 # インプットデータ（1行のデータフレーム）
